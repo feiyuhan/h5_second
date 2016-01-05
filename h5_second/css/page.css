@@ -35,3 +35,11 @@ html, body {
         float: right;
         margin-right: 5%;
     }
+
+#first_long_word{
+    height: 900px;
+}
+
+#second_long_word{
+    height: 900px;
+}
